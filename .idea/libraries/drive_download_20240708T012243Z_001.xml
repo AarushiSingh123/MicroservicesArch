@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="drive-download-20240708T012243Z-001">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hys-dashboard.zip!/" />
+      <root url="jar://$PROJECT_DIR$/user_service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/contact_service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/e_server.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apigateway.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
